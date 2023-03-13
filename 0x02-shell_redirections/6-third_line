@@ -1,0 +1,2 @@
+#!/bin/bash
+dead -3 iacta | tail -1
